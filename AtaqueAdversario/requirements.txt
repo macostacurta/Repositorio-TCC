@@ -1,0 +1,17 @@
+# REQUIREMENTS.TXT - FGSM Attack (CPU Version)
+# Python 3.9 ou 3.10 recomendado
+
+# PyTorch CPU - Framework principal
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.1.0+cpu
+torchvision==0.16.0+cpu
+
+# Processamento de imagens
+Pillow==10.1.0
+numpy==1.24.3
+
+# Para Xception (opcional, mas recomendado)
+timm==0.9.12
+
+# Utilitários opcionais
+tqdm==4.66.1
