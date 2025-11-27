@@ -1,2 +1,3 @@
-Pastas com imagens que deseja atacar
+Coloque as pastas com as imagens que deseja atacar aqui.
  
+
