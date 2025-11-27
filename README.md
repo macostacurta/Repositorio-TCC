@@ -27,6 +27,12 @@ Devido a diferenças nas bibliotecas, recomenda-se o uso de ambientes virtuais s
 
 ---
 
+## Datasets e Pesos
+
+Os Datasets originais, pesos pre-treinados e backbones pre-treinados podem ser encontrados no repositorio do [DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) nas seções 5 e 6.
+
+---
+
 ## Licença e Créditos
 
 Este projeto é uma obra derivada e acadêmica, distribuída sob a licença **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
