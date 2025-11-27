@@ -29,7 +29,7 @@ Devido a diferenças nas bibliotecas, recomenda-se o uso de ambientes virtuais s
 
 ## Datasets e Pesos
 
-Os Datasets originais, pesos pre-treinados e backbones pre-treinados podem ser encontrados no repositorio do [DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) nas seções 5 e 6.
+Os Datasets originais, backbones pre-treinados e pesos pre-treinados podem ser encontrados no repositorio do [DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) nas seções 2, 5 e 6 respectivamente.
 
 ---
 
