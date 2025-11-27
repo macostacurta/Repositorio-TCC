@@ -1,6 +1,6 @@
 # Repositorio-TCC
 
-Este repositório contém o código-fonte do framework de detector de deepfake (DeepfakeBench) e o gerador de ataque adversario desenvolvido pelo autor utilizados no artigo.
+Este repositório contém o código-fonte do framework de detector de deepfake (DeepfakeBench) e o gerador de ataque adversario desenvolvido pelo autor, ambos utilizados no artigo.
 
 ## Estrutura do Projeto
 
